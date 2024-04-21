@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagendrareddy777" alt="nagendrareddy777" /></a> </p>
 
-- 🔭 I’m currently learning the **Data Science & ML algorithms**
+- 🔭 I’m currently learning the **ML algorithms**
 
 - 🌱 I’m currently learning **supervised models**
 

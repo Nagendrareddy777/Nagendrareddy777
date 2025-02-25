@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Badduri Nagendra Reddy</h1>
+<h1 align="center">Hi 👋, I'm Nagendra Reddy Badduri</h1>
 <h3 align="center">A passionate Data Scientist & ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendrareddy777&label=Profile%20views&color=0e75b6&style=flat" alt="nagendrareddy777" /> </p>

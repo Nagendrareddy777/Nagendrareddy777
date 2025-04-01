@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagendra Reddy Badduri</h1>
-<h3 align="center">A passionate Data Scientist & ML Engineer from India</h3>
+<h3 align="center">A passionate Data Scientist & AI/ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendrareddy777&label=Profile%20views&color=0e75b6&style=flat" alt="nagendrareddy777" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently learning the **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **ML projects**
+- 👯 I’m looking to collaborate on **Data Science and Deep Learning Related projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nagendrareddy777](https://github.com/Nagendrareddy777)
+- 👨‍💻 To see all my work ,you can visit all the Repositories
 
 - 💬 Ask me about **Data Science & Ml Algorithms**
 
 - 📫 How to reach me **nagendrareddybadduri@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:****</h3>
 <p align="left">
 </p>
 

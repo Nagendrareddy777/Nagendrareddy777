@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nagendrareddybadduri@gmail.com**
 
-<h3 align="left">Connect with me:****</h3>
+<h3 align="left">Connect with me:**www.linkedin.com/in/nagendrareddy777**</h3>
 <p align="left">
 </p>
 

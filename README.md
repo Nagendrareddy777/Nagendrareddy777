@@ -40,7 +40,7 @@
 ---
 ### 📜 Certifications
 
-🔗 Explore all certifications in my [My_Certficates Repository →](https://github.com/BadduriNagendrareddy777/My_Certficates)
+🔗 Explore all certifications in my [My_Certficates Repository →](https://github.com/Nagendrareddy777/My_Certficates)
 #### 🧠 Machine Learning & AI
 - Stanford – Supervised Learning Algorithms  
 - NPTEL – Deep Learning (IIT Ropar)  

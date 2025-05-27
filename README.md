@@ -31,7 +31,7 @@
 ---
 ### 📜 Certifications
 
-🔗 Explore all certifications in my [My_Certficates Repository →](https://github.com/BadduriNagendraReddy/My_Certficates)
+🔗 Explore all certifications in my [My_Certficates Repository →](https://github.com/BadduriNagendrareddy777/My_Certficates)
 #### 🧠 Machine Learning & AI
 - Stanford – Supervised Learning Algorithms  
 - NPTEL – Deep Learning (IIT Ropar)  
@@ -52,21 +52,21 @@
 ### 📈 Achievements & Projects
 
 - 🥇 **Amazon ML Challenge** – Ranked Top 50 Nationally  
-- 🤖 Built NLP, CV models for classification & recommendation  
-- 🎯 Focused on practical AI applications and real-world datasets  
+- 🤖 GATE DA 2025 Rank was 4358
+- 🎯 Focused on practical AI applications and real-world problems  
 
 ---
 
 ### 💬 Let’s Connect
 
 <p align="center">
-  <a href="mailto:baddurinagendrareddy@example.com">
+  <a href="mailto:baddurinagendrareddy@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/Nagendrareddy777">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/BadduriNagendraReddy/My_Certficates">
+  <a href="https://github.com/BadduriNagendrareddy777/My_Certficates">
     <img src="https://img.shields.io/badge/View%20Certificates-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

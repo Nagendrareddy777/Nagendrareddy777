@@ -29,3 +29,44 @@
 </p>
 
 ---
+### 📜 Certifications
+
+🔗 Explore all certifications in my [My_Certficates Repository →](https://github.com/BadduriNagendraReddy/My_Certficates)
+#### 🧠 Machine Learning & AI
+- Stanford – Supervised Learning Algorithms  
+- NPTEL – Deep Learning (IIT Ropar)  
+- GFG – Complete ML & DS Program  
+- Vizuara AI Lab – LLMs from Scratch  
+- CDPC – 7 Day ML Workshop  
+
+#### 📊 Data Science
+- IBM – Python, SQL, Tools, Analysis  
+- Kaggle – Pandas, Data Viz  
+- IBM – The Data Science Method  
+
+#### ☕ Software Development
+- NPTEL – Object-Oriented Design using UML & Java
+
+---
+
+### 📈 Achievements & Projects
+
+- 🥇 **Amazon ML Challenge** – Ranked Top 50 Nationally  
+- 🤖 Built NLP, CV models for classification & recommendation  
+- 🎯 Focused on practical AI applications and real-world datasets  
+
+---
+
+### 💬 Let’s Connect
+
+<p align="center">
+  <a href="mailto:baddurinagendrareddy@example.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/BadduriNagendraReddy/My_Certficates">
+    <img src="https://img.shields.io/badge/View%20Certificates-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>

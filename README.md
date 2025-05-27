@@ -29,6 +29,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database%20Management-blue?style=for-the-badge"/>
 </p>
+#### ⚙️ Core Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-red?style=for-the-badge"/>
+</p>
 
 ---
 ### 📜 Certifications

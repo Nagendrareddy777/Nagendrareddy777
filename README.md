@@ -75,7 +75,7 @@
   <a href="https://www.linkedin.com/in/Nagendrareddy777">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/BadduriNagendrareddy777/My_Certificates">
+  <a href="https://github.com/Nagendrareddy777/My_Certificates">
     <img src="https://img.shields.io/badge/View%20Certificates-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

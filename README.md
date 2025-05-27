@@ -40,7 +40,7 @@
 ---
 ### 📜 Certifications
 
-🔗 Explore all certifications in my [My_Certficates Repository →](https://github.com/Nagendrareddy777/My_Certficates)
+🔗 Explore all certifications in my [My_Certficates Repository →](https://github.com/Nagendrareddy777/My_Certificates)
 #### 🧠 Machine Learning & AI
 - Stanford – Supervised Learning Algorithms  
 - NPTEL – Deep Learning (IIT Ropar)  
@@ -69,13 +69,13 @@
 ### 💬 Let’s Connect
 
 <p align="center">
-  <a href="mailto:baddurinagendrareddy@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRsqPvDCSGMxMPVdkLnKdGQBQwLNbmFpxDsHBpbJHSgQhbqSlTbwnLVnDqvvwSpTKPsmwfQ">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/Nagendrareddy777">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/BadduriNagendrareddy777/My_Certficates">
+  <a href="https://github.com/BadduriNagendrareddy777/My_Certificates">
     <img src="https://img.shields.io/badge/View%20Certificates-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
